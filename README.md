@@ -13,3 +13,13 @@
 
 
 ## 프로젝트를 진행하기에 앞서 Flutter와 Dart의 기본문법에 대해서 공부해보도록 한다.
+
+
+
+1. Dart의 기본적인 문법1
+2. Dart의 기본적인 문법2
+3. Flutter 기본코드 이해
+4. Flutter UI구성1
+5. Flutter UI구성2
+6. Flutter UI구성3_이미지 넣기, 리스트 뷰, 텍스트 
+7. Flutter UI구성4_페이지 라우팅
